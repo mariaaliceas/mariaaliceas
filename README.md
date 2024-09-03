@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Maria Alice
 
-Welcome to my corner of the digital universe! 🌌 Here, I explore the realms of code, creativity, and caffeine. ☕️
+Welcome to my digital universe!
 
 ## 🚀 About Me
 
